@@ -1,6 +1,7 @@
 // Selectors for elements to remove (i.e. overlays, modals)
 const offendingElementSelectors = [
     '#aid-overlay',
+    "#modal-incentive-backdrop",
     '.modal-incentive',
     '.fixed.z-\[999\].inset-0.flex.items-center.overflow-y-scroll'
 ];
